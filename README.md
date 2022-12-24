@@ -1,7 +1,7 @@
 # Analytics Page
-ReactJS for building the front-end user interface
-Redux for managing the application state
-Tailwind CSS for styling the page
+- ReactJS for building the front-end user interface
+- Redux for managing the application state
+- Tailwind CSS for styling the page
 Screenshots 
 1.![removed columns](https://user-images.githubusercontent.com/51878340/209435779-317ac675-bdcc-4030-a284-584383dbbc81.png)
 2.![removed](https://user-images.githubusercontent.com/51878340/209435783-f64fafab-f491-426b-880e-c88be6fd3310.png)
