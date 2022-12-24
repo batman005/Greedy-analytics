@@ -1,4 +1,24 @@
-# Getting Started with Create React App
+# Analytics Page
+ReactJS for building the front-end user interface
+Redux for managing the application state
+Tailwind CSS for styling the page
+Screenshots 
+1.![removed columns](https://user-images.githubusercontent.com/51878340/209435779-317ac675-bdcc-4030-a284-584383dbbc81.png)
+2.![removed](https://user-images.githubusercontent.com/51878340/209435783-f64fafab-f491-426b-880e-c88be6fd3310.png)
+3.![Screenshot (9)](https://user-images.githubusercontent.com/51878340/209435787-cd4cffd6-5ca5-4b3e-9dcd-ec1d5793e27c.png)
+4![Screenshot 2022-04-21 141951](https://user-images.githubusercontent.com/51878340/209435796-7f184d4d-5462-4dd4-b52b-17655f3b0380.png)
+5.![Searchapp jpg](https://user-images.githubusercontent.com/51878340/209435799-da9b2e1c-263e-4442-bc5a-8fff29513eaf.png)
+6.![Settingstab](https://user-images.githubusercontent.com/51878340/209435803-ddae1723-1a37-4908-b834-059aa0988dd5.png)
+7.![something off](https://user-images.githubusercontent.com/51878340/209435806-c906c235-1b15-4a52-a411-5a8f2706eb42.png)
+
+
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
